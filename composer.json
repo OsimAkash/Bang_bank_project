@@ -1,0 +1,16 @@
+{
+    "name": "osim/bang-bank-project",
+    "description": "A simple anynymous feedback app using raw php",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": " Osim Kumar Roy",
+            "email": "Osim.osimakash123@gmail.com"
+        }
+    ],
+    "require": {}
+}
